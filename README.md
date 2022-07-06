@@ -8,18 +8,18 @@ Crie as funcionalidades: abrir conta, sacar, depositar, transferência, investir
 
 Use a classe "Aplicacao" para criar seu método "main" e demonstrar o funcionamento do seu código.
 
-### Entrega
+## Entrega
 
 A entrega deverá ser feita fornecendo o link Github do projeto (link unico para o grupo).
 
-### Prazo: 11/07
+#### Prazo: 11/07
 
-Avaliação
+## Avaliação
 
 Serão avaliados os seguintes quesitos:
 
-Completude das funcionalidades
-Aplicação das regras de negócio
-Modelagem de domínio orientado a objetos
-Aplicação de encapsulamento
-Abstração e polimorfismo
+Completude das funcionalidades  
+Aplicação das regras de negócio  
+Modelagem de domínio orientado a objetos  
+Aplicação de encapsulamento  
+Abstração e polimorfismo  
